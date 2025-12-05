@@ -1,0 +1,232 @@
+
+                                      ARENA Simulation Results
+                            neliopaganineto@gmail.com - License: STUDENT
+
+                                  Sumário para Replicação 1 de 10
+
+Projeto: Unnamed Project                                             Data da execução :12/ 4/2025
+Analista: pf                                                          Data de revisão do modelo:12/ 4/2025
+
+Replicação terminada no tempo de      : 5000.0 Segundos 
+Unidade de Tempo Base: Segundos
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+Conta 2                                       13601  Infinite
+Conta 3                                        9076  Infinite
+Conta 1                                       22710  Infinite
+descartes                                    104612  Infinite
+
+Iniciando replicação 2 de 10
+
+                                      ARENA Simulation Results
+                            neliopaganineto@gmail.com - License: STUDENT
+
+                                  Sumário para Replicação 2 de 10
+
+Projeto: Unnamed Project                                             Data da execução :12/ 4/2025
+Analista: pf                                                          Data de revisão do modelo:12/ 4/2025
+
+Replicação terminada no tempo de      : 5000.0 Segundos 
+Unidade de Tempo Base: Segundos
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+Conta 2                                       13524  Infinite
+Conta 3                                        9060  Infinite
+Conta 1                                       22745  Infinite
+descartes                                    104670  Infinite
+
+Iniciando replicação 3 de 10
+
+                                      ARENA Simulation Results
+                            neliopaganineto@gmail.com - License: STUDENT
+
+                                  Sumário para Replicação 3 de 10
+
+Projeto: Unnamed Project                                             Data da execução :12/ 4/2025
+Analista: pf                                                          Data de revisão do modelo:12/ 4/2025
+
+Replicação terminada no tempo de      : 5000.0 Segundos 
+Unidade de Tempo Base: Segundos
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+Conta 2                                       13519  Infinite
+Conta 3                                        9158  Infinite
+Conta 1                                       22648  Infinite
+descartes                                    104674  Infinite
+
+Iniciando replicação 4 de 10
+
+                                      ARENA Simulation Results
+                            neliopaganineto@gmail.com - License: STUDENT
+
+                                  Sumário para Replicação 4 de 10
+
+Projeto: Unnamed Project                                             Data da execução :12/ 4/2025
+Analista: pf                                                          Data de revisão do modelo:12/ 4/2025
+
+Replicação terminada no tempo de      : 5000.0 Segundos 
+Unidade de Tempo Base: Segundos
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+Conta 2                                       13768  Infinite
+Conta 3                                        8948  Infinite
+Conta 1                                       22615  Infinite
+descartes                                    104668  Infinite
+
+Iniciando replicação 5 de 10
+
+                                      ARENA Simulation Results
+                            neliopaganineto@gmail.com - License: STUDENT
+
+                                  Sumário para Replicação 5 de 10
+
+Projeto: Unnamed Project                                             Data da execução :12/ 4/2025
+Analista: pf                                                          Data de revisão do modelo:12/ 4/2025
+
+Replicação terminada no tempo de      : 5000.0 Segundos 
+Unidade de Tempo Base: Segundos
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+Conta 2                                       13723  Infinite
+Conta 3                                        8945  Infinite
+Conta 1                                       22655  Infinite
+descartes                                    104676  Infinite
+
+Iniciando replicação 6 de 10
+
+                                      ARENA Simulation Results
+                            neliopaganineto@gmail.com - License: STUDENT
+
+                                  Sumário para Replicação 6 de 10
+
+Projeto: Unnamed Project                                             Data da execução :12/ 4/2025
+Analista: pf                                                          Data de revisão do modelo:12/ 4/2025
+
+Replicação terminada no tempo de      : 5000.0 Segundos 
+Unidade de Tempo Base: Segundos
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+Conta 2                                       13587  Infinite
+Conta 3                                        9140  Infinite
+Conta 1                                       22622  Infinite
+descartes                                    104650  Infinite
+
+Iniciando replicação 7 de 10
+
+                                      ARENA Simulation Results
+                            neliopaganineto@gmail.com - License: STUDENT
+
+                                  Sumário para Replicação 7 de 10
+
+Projeto: Unnamed Project                                             Data da execução :12/ 4/2025
+Analista: pf                                                          Data de revisão do modelo:12/ 4/2025
+
+Replicação terminada no tempo de      : 5000.0 Segundos 
+Unidade de Tempo Base: Segundos
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+Conta 2                                       13640  Infinite
+Conta 3                                        8999  Infinite
+Conta 1                                       22709  Infinite
+descartes                                    104652  Infinite
+
+Iniciando replicação 8 de 10
+
+                                      ARENA Simulation Results
+                            neliopaganineto@gmail.com - License: STUDENT
+
+                                  Sumário para Replicação 8 de 10
+
+Projeto: Unnamed Project                                             Data da execução :12/ 4/2025
+Analista: pf                                                          Data de revisão do modelo:12/ 4/2025
+
+Replicação terminada no tempo de      : 5000.0 Segundos 
+Unidade de Tempo Base: Segundos
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+Conta 2                                       13515  Infinite
+Conta 3                                        9147  Infinite
+Conta 1                                       22670  Infinite
+descartes                                    104667  Infinite
+
+Iniciando replicação 9 de 10
+
+                                      ARENA Simulation Results
+                            neliopaganineto@gmail.com - License: STUDENT
+
+                                  Sumário para Replicação 9 de 10
+
+Projeto: Unnamed Project                                             Data da execução :12/ 4/2025
+Analista: pf                                                          Data de revisão do modelo:12/ 4/2025
+
+Replicação terminada no tempo de      : 5000.0 Segundos 
+Unidade de Tempo Base: Segundos
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+Conta 2                                       13544  Infinite
+Conta 3                                        9098  Infinite
+Conta 1                                       22654  Infinite
+descartes                                    104703  Infinite
+
+Iniciando replicação 10 de 10
+
+                                      ARENA Simulation Results
+                            neliopaganineto@gmail.com - License: STUDENT
+
+                                  Sumário para Replicação 10 de 10
+
+Projeto: Unnamed Project                                             Data da execução :12/ 4/2025
+Analista: pf                                                          Data de revisão do modelo:12/ 4/2025
+
+Replicação terminada no tempo de      : 5000.0 Segundos 
+Unidade de Tempo Base: Segundos
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+Conta 2                                       13575  Infinite
+Conta 3                                        9046  Infinite
+Conta 1                                       22724  Infinite
+descartes                                    104655  Infinite
+
+
+Tempo executando a simulação: 0.10 minutos.
+Simulação completada.
